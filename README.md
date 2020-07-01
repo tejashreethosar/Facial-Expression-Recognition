@@ -20,3 +20,6 @@ The objective of this project is to classify each face based on the emotion show
 ![ezgif com-optimize](https://user-images.githubusercontent.com/55942093/86212481-c6ea8180-bb95-11ea-8a9b-7e44aa6bc051.gif)
 
 
+Bye bye..!!
+
+
